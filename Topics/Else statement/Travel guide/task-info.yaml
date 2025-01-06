@@ -1,0 +1,23 @@
+type: matching
+captions:
+  - Lisbon
+  - London
+  - Oslo
+options:
+  - You should visit it in the winter!
+  - You should visit it in the summer!
+  - I don&#x27;t know what the best season is :(
+files:
+  - name: main.py
+    visible: true
+    text: |+
+      #  You can experiment here, it won’t be checked
+    
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6523#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2

@@ -1,0 +1,16 @@
+type: code
+files:
+  - name: main.py
+    visible: true
+    highlight_level: NONE
+    text: |-
+      def mi_to_km():
+          pass
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8934#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Mon, 06 Jan 2025 14:12:53 UTC"
+record: -1
+submission_language: python3
