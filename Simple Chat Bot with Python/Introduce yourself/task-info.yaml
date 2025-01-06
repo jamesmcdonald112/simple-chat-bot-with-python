@@ -73,5 +73,8 @@ files:
       if __name__ == '__main__':    ChattyBotTest('bot.bot').run_tests()
     learner_created: false
 feedback_link: https://hyperskill.org/projects/97/stages/535/implement#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 06 Jan 2025 11:21:42 UTC"
 record: -1
